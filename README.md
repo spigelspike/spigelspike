@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=FF6EC7&center=true&vCenter=true&width=700&lines=Software+Engineer+%F0%9F%9A%80;Full-Stack+Developer;AI+%2F+ML+Builder;Backend+%26+Systems+Thinker;IEEE+Researcher+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=FF6EC7&center=true&vCenter=true&width=700&lines=Software+Engineer+%F0%9F%9A%80;Full-Stack+Developer;AI+%2F+ML+Builder;Backend+%26+Systems+Thinker;%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 ### Mohamed Shereef CH
 
@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamed--shereef-FF0080?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-shereef)
 [![GitHub](https://img.shields.io/badge/GitHub-spigelspike-7928CA?style=flat-square&logo=github&logoColor=white)](https://github.com/spigelspike)
 [![Mail](https://img.shields.io/badge/Email-mhdshareefch%40gmail.com-FF4D4D?style=flat-square&logo=gmail&logoColor=white)](mailto:mhdshareefch@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6EC7?style=flat-square&logo=vercel&logoColor=white)](#)
+
 
 </div>
 
