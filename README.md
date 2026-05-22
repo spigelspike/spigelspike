@@ -207,6 +207,6 @@ If you're building something interesting — let's talk!
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D4D,50:7928CA,100:FF0080&height=100&section=footer" width="100%"/>
 
-*"I don't just use AI tools — I build with them."*
+
 
 </div>
