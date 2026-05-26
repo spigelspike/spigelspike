@@ -29,7 +29,7 @@ class Shereef:
     role        = "Software Engineer (Fresher)"
     education   = "B.Tech IT — MEA Engineering College, Kerala  ·  May 2026"
     focus       = ["Backend Systems", "AI Integration", "Full-Stack Development"]
-    currently   = "ACLInsight-Net  ·  IEEE Paper in Progress"
+    currently   = "HopON  ·  Cross-Platform Gamer Social App"
     stack       = ["Python", "FastAPI", "Supabase", "PyTorch", "Node.js", "React"]
     interests   = ["Distributed Systems", "Logistics Optimization", "Scalable AI Backends"]
     spoken      = ["English", "Malayalam", "Hindi"]
@@ -40,14 +40,28 @@ class Shereef:
 
 ---
 
-## `▶ ACTIVE.QUESTS`
+## `▶ ACTIVE.QUEST`
 
 ```
-⚔  ACLInsight-Net ─────────────────────── [ IN PROGRESS ▓▓▓▓▓▓▓░░░ 70% ]
-   Multi-plane MRI deep learning for ACL tear detection  ·  IEEE Target
-
-⚔  Book2Vision ────────────────────────── [ IN PROGRESS ▓▓▓▓▓▓▓▓░░ 80% ]
-   Books → OCR → LLM → TTS → Visuals  ·  IEEE Paper in Progress
+╔══════════════════════════════════════════════════════════════════════╗
+║  ⚔  HopON                                    [ IN PROGRESS ▓▓▓▓▓░░░ ]
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  Cross-platform social networking and gaming alert app built         ║
+║  for friend groups and squads.                                       ║
+║                                                                      ║
+║  ► Core mechanic  — single-tap "Hop On" high-priority push           ║
+║                     notifications that ping the entire squad         ║
+║                     to get online fast                               ║
+║                                                                      ║
+║  ► Social layer   — private squad feeds for memes, music drops,      ║
+║                     anime ratings, and movie logs                    ║
+║                                                                      ║
+║  ► Squad system   — exclusive closed groups with dark-mode UI        ║
+║                                                                      ║
+║  STACK: React Native · Firebase · Node.js · Supabase                 ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
@@ -78,6 +92,8 @@ class Shereef:
 #### `[ FRONTEND ]`
 
 ![React](https://img.shields.io/badge/REACT-0D0D0D?style=for-the-badge&logo=react&logoColor=00FFFF)
+![React Native](https://img.shields.io/badge/REACT_NATIVE-0D0D0D?style=for-the-badge&logo=react&logoColor=39FF14)
+![Expo](https://img.shields.io/badge/EXPO-0D0D0D?style=for-the-badge&logo=expo&logoColor=FAFAFA)
 ![Next.js](https://img.shields.io/badge/NEXT.JS-0D0D0D?style=for-the-badge&logo=nextdotjs&logoColor=FAFAFA)
 ![HTML5](https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=FF2D55)
 ![CSS3](https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=4FC3F7)
@@ -194,32 +210,6 @@ class Shereef:
     </td>
   </tr>
 </table>
-
-<br/>
-
----
-
-## `▶ SCOREBOARD`
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=spigelspike&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&icon_color=39FF14&title_color=39FF14"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spigelspike&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&title_color=39FF14"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=spigelspike&theme=tokyonight&hide_border=true&border_radius=10&ring=39FF14&fire=FF2D55&currStreakLabel=39FF14)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=spigelspike&theme=tokyo-night&hide_border=true&radius=8&color=39FF14&line=00FFFF&point=FF2D55)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 <br/>
 
