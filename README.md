@@ -40,28 +40,11 @@ class Shereef:
 
 ---
 
-## `▶ ACTIVE.QUEST`
+## `▶ ACTIVE.QUESTS`
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║  ⚔  HopON                                    [ IN PROGRESS ▓▓▓▓▓░░░ ]
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  Cross-platform social networking and gaming alert app built         ║
-║  for friend groups and squads.                                       ║
-║                                                                      ║
-║  ► Core mechanic  — single-tap "Hop On" high-priority push           ║
-║                     notifications that ping the entire squad         ║
-║                     to get online fast                               ║
-║                                                                      ║
-║  ► Social layer   — private squad feeds for memes, music drops,      ║
-║                     anime ratings, and movie logs                    ║
-║                                                                      ║
-║  ► Squad system   — exclusive closed groups with dark-mode UI        ║
-║                                                                      ║
-║  STACK: React Native · Firebase · Node.js · Supabase                 ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+⚔  HopON ──────────────────────────────── [ IN PROGRESS ▓▓▓▓▓░░░░░ 50% ]
+   Cross-platform gamer social hub  ·  Squad alerts  ·  React Native + Firebase
 ```
 
 <br/>
@@ -240,3 +223,4 @@ class Shereef:
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:BF00FF,25:00FFFF,50:FF2D55,75:FFE600,100:39FF14&height=8" width="100%"/>
+
