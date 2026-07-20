@@ -11,9 +11,6 @@
   <a href="mailto:mhdshareefch@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF2D55"/>
   </a>
-  <a href="https://github.com/spigelspike">
-    <img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=00FFFF"/>
-  </a>
 </div>
 
 <br/>
