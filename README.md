@@ -57,19 +57,8 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase,firebase,vercel,git,github,postman,vscode,linux&theme=dark"/>
 </p>
 
----
 
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## 🌐 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
